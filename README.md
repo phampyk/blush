@@ -1,3 +1,3 @@
-# theme-template
+# Olive Theme for Olivetin
 
-required: theme.css
+![Screenshot of the theme](cover.png "Screenshot")
