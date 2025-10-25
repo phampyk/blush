@@ -10,7 +10,6 @@
   --color-blue: #7e96b2;
   --color-orange: #c87e4e;
   --color-grey: #989898;
-  --color-shadow: #DECDCD;
 }
 
 body{
@@ -434,3 +433,4 @@ div.userinfo{
   color: var(--color-font);
   font-size: medium;
 }
+
